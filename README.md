@@ -27,7 +27,7 @@
     пример запуска pytest test_module.py --url=https://mail.ru --status_code=200
 
 
-# Запуск проекта тестирования веб-сайта с помощью Selenium
+# Запуск тестов API
 
 ## Требования
 
